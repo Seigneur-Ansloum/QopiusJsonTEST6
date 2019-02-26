@@ -121,8 +121,7 @@
         }
     ]
 }
-{
-    "store_data":{
+{"store_data":{
         "scale_m_per_pixel":0.005,
         "max_x":2000,
         "max_y":2000
